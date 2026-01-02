@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Usama Bilal
 **A passionate Android App deve || Web developer || graphic designer
 
-Email Me 👉 ✉️ **us497403e.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **us497403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** App Development Projects
 - 🌱 **I’m currently learning:** Kotlin+Xml+java+python
 - 📫 **How to reach me:** us497403@gmail.com
 - 😄 **Pronouns:** Usama Bilal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-
+    
 
 
 
@@ -26,8 +26,16 @@ Email Me 👉 ✉️ **us497403e.com** For Collaboration/Project or Anything Els
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhammad usama bilal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad usama bilal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad usama bilal&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
