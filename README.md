@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Usama Bilal
-**A passionate Android App deve || Web developer || graphic designer
+**Student OF ( kicsit ) IST | Aspiring Software Developer | Skilled in Coding  || graphic designer
 
 Email Me 👉 ✉️ **us497403@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
