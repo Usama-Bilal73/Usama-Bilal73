@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **us497403@gmail.com** For Collaboration/Project or Anythin
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/usama_956) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@usamii304) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Usama Bilal) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@UsamaBilal40236) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:us497402@gmail.com) 
